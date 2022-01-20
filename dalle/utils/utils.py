@@ -10,7 +10,6 @@ import urllib
 import hashlib
 import tarfile
 import torch
-import clip
 import numpy as np
 from PIL import Image
 from torch.nn import functional as F
