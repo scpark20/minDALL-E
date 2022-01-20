@@ -4,3 +4,4 @@ tqdm>=4.46.0
 einops
 omegaconf
 matplotlib
+pytorch-lightning>=1.5
